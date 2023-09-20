@@ -1,0 +1,8 @@
+
+--Identificar en qué etapa procesal se encuentran los expedientes judiciales
+--Actualizar en el sistema según los siguientes códigos:
+
+S: Ingreso de primera demanda
+M: Admisión de medios probatorios
+L: Etapa de sentencia
+F: Expediente archivado

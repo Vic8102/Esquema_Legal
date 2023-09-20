@@ -1,0 +1,3 @@
+Identificar todos los expedientes tributarios y distinguirlos de los civiles
+Expedientes tributarios tendrá el código :T
+Expedientes civiles tendrá en código: C
